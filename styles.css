@@ -1,0 +1,65 @@
+body {
+  background-image: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
+  font-family: cursive;
+}
+table {
+  border-collapse: collapse;
+}
+th,
+td {
+  text-align: center;
+  padding: 8px;
+}
+th {
+  background-color: #04aa6d;
+  color: white;
+}
+td {
+  background-color: #f2f2f2;
+}
+img {
+  background-color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 10%;
+  border-radius: 5px;
+}
+ol {
+  width: 25%;
+  background: #ff9999;
+}
+
+ol li {
+  background: #ffe5e5;
+  color: darkred;
+  padding: 3px;
+}
+ul {
+  width: 25%;
+  list-style-type: square;
+  background: #3399ff;
+}
+
+ul li {
+  background: #cce5ff;
+  color: darkblue;
+  padding: 3px;
+}
+.ph {
+  text-align: justify;
+  margin: 5px;
+}
+.phhg {
+  font-family: Arial;
+  text-align: center;
+  color: darkgreen;
+}
+a {
+  text-decoration: none;
+  color: purple;
+}
+.sbhg {
+  font-family: Arial;
+  line-height: 0.1px;
+}
